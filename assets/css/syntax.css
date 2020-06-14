@@ -60,5 +60,5 @@
 .codehilite .il { color: #009999 } /* Literal.Number.Integer.Long */
 .header-conf-info { padding-top: 5%; line-height: 180%; font-weight: 700; }
 .information { border: 1px solid #cccccc; width: 900px; }
-.important_date { border: 1px solid #cccccc; width: 400px; }
+.important_date { border: 1px solid #cccccc; width: 30%; }
 .important_date_content { display: flex; justify-content: center; margin: 0px; }
