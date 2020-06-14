@@ -61,4 +61,4 @@
 .header-conf-info { padding-top: 5%; line-height: 180%; font-weight: 700; }
 .information { border: 1px solid #cccccc; width: 900px; }
 .important_date { border: 1px solid #cccccc; width: 400px; }
-.important_date_content { display: flex; align-items: center; margin: 0px; }
+.important_date_content { display: flex; justify-content: center; margin: 0px; }
