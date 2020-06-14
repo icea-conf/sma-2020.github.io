@@ -59,4 +59,4 @@
 .codehilite .vi { color: #008080 } /* Name.Variable.Instance */
 .codehilite .il { color: #009999 } /* Literal.Number.Integer.Long */
 .header-conf-info { padding-top: 5%; line-height: 180%; font-weight: 700; }
-.information { border: 1px solid #cccccc; width: 400px; text-align: left; }
+.information { border: 1px solid #cccccc; width: 400px; }
