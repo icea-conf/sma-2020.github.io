@@ -60,3 +60,4 @@
 .codehilite .il { color: #009999 } /* Literal.Number.Integer.Long */
 .header-conf-info { padding-top: 5%; line-height: 180%; font-weight: 700; }
 .home_info { border: 1px solid #cccccc; float: left; width: 50%; }
+.container { display: inline-block; width: 50%; }
