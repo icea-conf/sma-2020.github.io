@@ -63,4 +63,5 @@
 .div-align { width: 50%; margin: 0 auto;}
 .container { padding-bottom: 30px;}
 .content { padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto;}
-.theader { text-align: center; font-size: 12px; border-spacing: 0px; }
+.table { border: 1px; border-collapse: collapse; border-spacing: 0px; cellspacing: 0; text-align: center; font-size: 12px; }
+.theader { text-align: center; font-size: 12px; }
