@@ -69,4 +69,4 @@
 .tcontent2 { border-top: 1px dotted #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .tcontent3 { border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .ul-style { list-style: none; }
-.li-style { background-image: url("https://sma-2020.github.io/image/list-style.jpg"); background-repeat: no-repeat; padding-left: 40px; padding-top: 10px; padding-bottom: 5px; }
+.li-style { background-image: url("https://sma-2020.github.io/image/list-style.jpg"); background-repeat: no-repeat; background-position: center top; padding-left: 40px; }
