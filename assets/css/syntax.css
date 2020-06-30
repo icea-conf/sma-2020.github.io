@@ -71,6 +71,6 @@
 .ul-style { list-style: none; }
 .li-style { background-image: url("https://icea-conf.github.io/2020/image/list-image.jpg"); background-repeat: no-repeat; background-position: left top; padding-left: 40px; }
 .parent { max-width: 100%; margin: auto auto; }
-.logo1 { border: 0; float: left; width: 30%; }
-.logo2 { border: 0; float: left; margin-left: 5%; }
+.logo1 { float: left; padding-left: 100px; }
+.logo2 { float: right; padding-right: 100px; }
 
