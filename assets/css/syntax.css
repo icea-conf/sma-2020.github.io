@@ -68,8 +68,8 @@
 .theader { border: 1px solid #000000; background-color: #44CBBF; padding-top: 1px; padding-bottom: 1px; padding-left: 1px; padding-right: 1px; }
 .tcontent1 { border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .tcontent2 { border-top: 1px dotted #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
-.tcontent3 { font-size: small; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
-.tcontent4 { border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
+.tcontent3 { font-size: small; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
+.tcontent4 { border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .ul-style { list-style: none; }
 .li-style { background-image: url("https://icea-conf.github.io/2020/image/list-image.jpg"); background-repeat: no-repeat; background-position: left top; padding-left: 40px; }
 .parent { max-width: 100%; margin: auto auto; }
