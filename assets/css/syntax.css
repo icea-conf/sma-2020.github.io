@@ -72,6 +72,7 @@
 .tcontent4 { border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .tcontent5 { background-color: #FFFF80; font-size: small; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .tcontent6 { background-color: #FFAE88; font-size: small; border-bottom: 1px solid #000000; border-right: 1px solid #000000; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
+.tcontent7 { border: 1px solid #FFFFFF; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; }
 .ul-style { list-style: none; }
 .li-style { background-image: url("https://icea-conf.github.io/2020/image/list-image.jpg"); background-repeat: no-repeat; background-position: left top; padding-left: 40px; }
 .parent { max-width: 100%; margin: auto auto; }
